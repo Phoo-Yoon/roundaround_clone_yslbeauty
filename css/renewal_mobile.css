@@ -21,8 +21,10 @@
         /* background-color: antiquewhite; */
     }
     #m_menu_btn{
-        width : 50px;
-        height: 50px;
+        /* width : 50px; */
+        width : 5.20833vw;
+        /* height: 50px; */
+        height: 5.20833vw;
         margin-top : 15px;
         /* margin-left : 15px; */
         margin-left : 1.5625%;
@@ -41,7 +43,8 @@
     #m_right_btn{
         /* width : 150px; */
         width : 15.625%;
-        height: 50px;
+        /* height: 50px; */
+        height: 5.2083vw;
         position : relative;
         float : right;
         margin-right : 15px;
@@ -52,12 +55,16 @@
         margin-top : 15px;
     }
     #m_shop_icon{
-        width : 50px;
-        height: 50px;
+        /* width : 30px; */
+        width : 5.20833vw;
+        /* height: 30px; */
+        height: 5.20833vw;
     }
     #m_login_icon{
-        width : 50px;
-        height: 50px;
+        /* width : 30px; */
+        width : 5.20833vw;
+        /* height: 30px; */
+        height: 5.20833vw;
     }
     /* m_header End */
     #m_section{
